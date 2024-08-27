@@ -23,11 +23,17 @@ nav{
     align-items: center;
 
 }
+.left .logo {
+    width: 4vmax; 
+    margin-right: 0.5vmax;
+}
 
 .left >a{
+    display: flex;
+    align-items: center;
     text-decoration: none;
     color: royalblue;
-    font-size: 2.5vmax;
+    font-size: 4vmax;
     font-family:'Times New Roman', Times, serif;
 }
 
